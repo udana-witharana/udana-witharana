@@ -47,7 +47,7 @@
 
 <h3 align="center">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="center">
-<a href="https://linkedin.com/in/udana witharana" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="udana witharana" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/udana-witharana-728529389/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="udana witharana" height="50" width="50" /></a>
 <a href="https://fb.com/udana witharana" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="udana witharana" height="50" width="50" /></a>
 <a href="https://instagram.com/udana_witharana" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504918.png" alt="udana_witharana" height="50" width="50" /></a>
 </p>
